@@ -1,0 +1,54 @@
+.banner {
+    background-image: url("../Img/header\ roma.png");
+    background-size: cover;
+
+    width: 900px;
+    height: 350px;
+    border: 6px solid rgb(250, 214, 12);
+    margin: auto;
+}
+
+.titulobanner {
+    text-align: center;
+    color: rgb(255, 108, 41);
+    padding-top: 50px;
+    font-size: 3rem;
+}
+
+body {
+    background-image: linear-gradient(rgba(5, 7, 12, 0.75), rgba(5, 7, 12, 0.75)),
+    url("../Img/Roma\ background.png");
+    background-size: contain;
+}
+
+.titulotemporada {
+    text-align: center;
+    color: gold;
+    margin-top: 50px;
+}
+
+.parrafo {
+    color: darkorange;
+}
+
+.bufanda {
+    margin-top: 20px;
+    display: flex;
+    justify-content:space-evenly
+}
+
+.mochila {
+    margin-top: 80px;
+    display: flex;
+    justify-content:space-evenly  
+}
+
+.camiseta {
+    margin-top: 80px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.footer {
+    background-color: rgb(216, 92, 9);
+    text-align: center;
+}
